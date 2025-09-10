@@ -91,7 +91,7 @@ DELETE /books/{id}
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/spring-crud.git
+   git  https://github.com/sihina3436/Spring-Boot-CRUD.git
    cd spring-crud
    ```
 
@@ -114,5 +114,3 @@ DELETE /books/{id}
 
 ---
 
-## 👨‍💻 Author
-- Developed with ❤️ using **Spring Boot**
